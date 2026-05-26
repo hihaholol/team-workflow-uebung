@@ -8,8 +8,9 @@ konflikt
 
 ## Section B
 
-(Dev B trägt sich hier ein)
-
+Daniel Habersatter
+Lieblingssprache Deutsch
 ## Section C
 
-(Dev C trägt sich hier ein)
+- Name: Thorben
+- Lieblingssprache: 
