@@ -6,10 +6,12 @@
 
 (Dev A trägt sich hier ein)
 
-## Section B
+## Team
 
-Daniel Habersatter
-Lieblingssprache Deutsch
+- Gunnar
+- Daniel
+
+
 ## Section C
 
 (Dev C trägt sich hier ein)
