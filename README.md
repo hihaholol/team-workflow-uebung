@@ -4,7 +4,7 @@
 
 ## Section A
 
-(Dev A trägt sich hier ein)
+konflikt
 
 ## Section B
 
