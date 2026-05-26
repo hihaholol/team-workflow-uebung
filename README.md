@@ -1,16 +1,15 @@
-# Team-Workflow-Übung
+# team-projekt
 
-Übungs-Repo aus der 45-Min-Gruppenübung „Feature-Workflow im Team".
+Gemeinsames Übungs-Repo aus dem Git-Kurs.
 
-## Section A
+## Inhalt
 
-konflikt
+- (Inhalt folgt)
 
-## Section B
+## Team
 
-Daniel Habersatter
-Lieblingssprache Deutsch
-## Section C
+- Host
 
-- Name: Thorben
-- Lieblingssprache: 
+## Kontakt
+
+- E-Mail: hostmail@example.com
