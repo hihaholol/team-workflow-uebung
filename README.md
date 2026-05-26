@@ -12,4 +12,4 @@
 
 ## Section C
 
-(Dev C trägt sich hier ein)
+- Name: Thorben
