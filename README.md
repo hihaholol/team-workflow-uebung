@@ -9,8 +9,8 @@ Java
 
 ## Section B
 
-(Dev B trägt sich hier ein)
-
+Daniel Habersatter
+Lieblingssprache Deutsch
 ## Section C
 
 - Name: Thorben
