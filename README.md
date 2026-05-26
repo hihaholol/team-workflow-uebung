@@ -4,8 +4,7 @@
 
 ## Section A
 
-artur
-Java
+(Dev A trägt sich hier ein)
 
 ## Section B
 
