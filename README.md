@@ -9,6 +9,7 @@ Gemeinsames Übungs-Repo aus dem Git-Kurs.
 ## Team
 
 - Host
+- Thorben
 
 ## Kontakt
 
