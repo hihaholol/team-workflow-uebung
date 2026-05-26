@@ -8,7 +8,7 @@
 
 ## Section B
 
-(Dev B trägt sich hier ein)
+Daniel Habersatter
 
 ## Section C
 
