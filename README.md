@@ -9,7 +9,7 @@
 ## Section B
 
 Daniel Habersatter
-
+Lieblingssprache Deutsch
 ## Section C
 
 (Dev C trägt sich hier ein)
